@@ -18,6 +18,7 @@ Starting out with only recipe ingredients and cuisine type means an initial reco
 * Each recipe contains cuisine type, a numeric ID, and a list of ingredients
 
 ![cuisine count](images/cuisine-count.png)
+
 *Relative % of Cuisine Types*
 
 ## Data Processing
